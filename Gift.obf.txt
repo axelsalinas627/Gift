@@ -8,7 +8,6 @@
 |__|  |__|  \______/   \______/  |__| \__| |__| /__/ \__\ 
                                                           
 
-This script was obfuscated using Moonix.
 
 ]]
 
